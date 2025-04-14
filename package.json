@@ -15,11 +15,11 @@
       "trailingComma": "es5"
     },
     "keywords": [],
-    "name": "",
+    "name": "@saadman30/mst-shared",
     "author": "",
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "git+https://github.com/saadman30/mst-shared.git"
     },
     "publishConfig": {
       "registry": "https://npm.pkg.github.com"
